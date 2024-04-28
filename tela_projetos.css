@@ -76,4 +76,8 @@ body {
     .container {
         width: 90%;
     }
+    #voltar-inicio {
+        width: 50%;
+        margin-left: 25%;
+    }
 }
